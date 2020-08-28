@@ -1,0 +1,25 @@
+# Reading Quiz 1
+
+Adam Visokay 08/27/2020
+
+1. Explain what identification means, according to Arthur Lewbel.
+According to Arthur Lewbel, identification charactarizes the extent to which one can learned about a parameter based on observable data. 
+
+2. Correctly order the following econometric actions in their logical sequence: estimation, hypothesis testing, identification, inference.
+    1. Identification
+    2. Estimation
+    3. Inference
+    4. Hypothesis Testing
+    
+3. What are the two characteristics of reduced-form causal methods, according to Lewbel? How is this different from structural methods?
+    1. Instead of focusing on parameters, reduced-form causal methods rely on identifying and estimating treatment effects.
+    2. Reduced-form causual methods use natural or experimental randomization as a key source of identification. For example, RCT's or IV's are
+    common approaches in this literature. 
+
+4. What does Lewbel refer to as "crude structural modeling"?
+Lewbel considers causal analyses speculating about the wider implications of randomized treatment effects to be "crude structural modeling". 
+
+5. What does Lewbel suggest is a way to overcome the external validity problem?
+By combining casual methods with structural modeling, Lewbel argues that the researcher can overcome the external validity problem.  
+Lewbel cites for example Rosenzweig and Udry (2016) who use structure to model how average treatment effects estimated from randomized control
+trials vary with macro shocks such as the weather.
